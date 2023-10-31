@@ -1,7 +1,7 @@
 //===========================================================
 //
 //			Name & Student ID:
-//       Melika Rajabi - 99101608
+//       Parisa Toumari
 //
 //			Implemented Instructions are:
 //			R format: add, sub, addu, subu, and, or, xor, nor, slt, sltu, jr, jalr, multu, mfhi, mflo;
