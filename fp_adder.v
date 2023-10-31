@@ -1,5 +1,4 @@
 //LAB_2
-//MELIKA RAJABI 99101608 
 //PARISA TOUMARI 
 
 //----------------------------- Initializing the time unit
